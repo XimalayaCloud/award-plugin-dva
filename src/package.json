@@ -1,6 +1,6 @@
 {
   "name": "award-plugin-dva",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "结合dva兼容服务端渲染的Award插件",
   "main": "./lib/index.js",
   "types": "index.d.ts",
