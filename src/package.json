@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "结合dva兼容服务端渲染的Award插件",
   "main": "./lib/index.js",
-  "type": "./dva.d.ts",
+  "types": "index.d.ts",
   "homepage": "https://github.com/XimalayaCloud/award-plugin-dva",
   "bugs": "https://github.com/XimalayaCloud/award-plugin-dva/issues",
   "repository": {
