@@ -1,4 +1,4 @@
-# award-plugin-dva
+# award-plugin-dva ∙ [![version](https://img.shields.io/npm/v/award-plugin-dva.svg)](https://www.npmjs.com/package/award-plugin-dva)
 
 > 声明: 插件开发依赖安装请使用`yarn`工具，只能使用该工具，因为我们需要通过其`link`功能来实现模块引用
 
