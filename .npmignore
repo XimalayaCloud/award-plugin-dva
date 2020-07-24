@@ -1,0 +1,11 @@
+# 忽略源代码
+example
+node_modules
+src
+
+# 忽略其他配置
+.gitignore
+award.config.js
+index.d.ts
+tsconfig.json
+yarn.lock

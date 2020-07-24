@@ -1,0 +1,20 @@
+{
+  "name": "award-plugin-dva",
+  "version": "0.0.2",
+  "description": "结合dva兼容服务端渲染的Award插件",
+  "main": "./lib/index.js",
+  "type": "./dva.d.ts",
+  "homepage": "https://github.com/XimalayaCloud/award-plugin-dva",
+  "bugs": "https://github.com/XimalayaCloud/award-plugin-dva/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XimalayaCloud/award-plugin-dva"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dva-core": "2.0.1",
+    "dva-immer": "0.4.18",
+    "dva-loading": "3.0.19",
+    "react-redux": "7.1.3"
+  }
+}
