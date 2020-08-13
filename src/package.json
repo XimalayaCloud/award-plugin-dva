@@ -1,6 +1,6 @@
 {
   "name": "award-plugin-dva",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "结合dva兼容服务端渲染的Award插件",
   "main": "./lib/index.js",
   "types": "index.d.ts",
@@ -15,6 +15,7 @@
     "dva-core": "2.0.1",
     "dva-immer": "0.4.18",
     "dva-loading": "3.0.19",
-    "react-redux": "7.1.3"
+    "react-redux": "7.1.3",
+    "redux": "4.0.5"
   }
 }
